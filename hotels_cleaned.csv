@@ -1,0 +1,16 @@
+hotel_name,hotel_rank,hotel_address,rating,languages_spoken,hotel_style,restaurants_nearby,attractions_nearby,no_of_rooms,min_price(₹),max_price(₹),latitude,longitude
+"ITC Windsor, Bengaluru ","#6 of 1,715 Hotels in Bengaluru","25 Windsor Square, Bengaluru 560052 India",5.0,"English, Hindi","Classic,Historic Hotel",115.0,16.0,240,7272,14256,77.5851158809335,12.993708542555183
+"ITC Maurya, a Luxury Collection Hotel, New Delhi","#9 of 1,978 Hotels in New Delhi","Diplomatic Enclave Sadar Patel Marg, New Delhi 110021 India",4.5,"English, Hindi","Business,Family",29.0,5.0,437,10008,15984,77.18358938200004,28.594970000000046
+ITC Grand Goa ,#2 of 6 Hotels in Cansaulim,"Arossim Beach, Cansaulim 403712 India",4.5,"English, Hindi",Great View,19.0,1.0,252,9000,24696,73.89275000000004,15.340340000000026
+"ITC Grand Bharat A Luxury Collection Retreat, Gurugram",#8 of 756 Hotels in Gurugram (Gurgaon),"Hasanpur, Tauru Mewat District, Gurugram (Gurgaon) 122 105 India",4.5,"English, Hindi","Luxury,Hidden Gem",NA,NA,104,13896,33048,77.06914000000006,28.477370000000064
+"ITC Rajputana, Jaipur ",#32 of 962 Hotels in Jaipur,"Palace Road, Jaipur 302006 India",4.5,"English, Hindi","Family,Art Deco Style",91.0,3.0,218,4536,12960,75.77727000000004,26.91469472400007
+"ITC Grand Chola, Chennai ",#14 of 936 Hotels in Chennai,"No 63 Mount Road Guindy, Chennai 600032 India",4.5,"English, Hindi, Tamil","Classic,City View",61.0,6.0,600,9216,18072,80.221280111103,13.01236417190176
+"ITC Mughal, Agra",#11 of 393 Hotels in Agra,"Fatehabad Rd, Tajganj, Agra 282001 India",4.5,"English, Hindi","Family,Park View",22.0,5.0,233,4536,9000,78.03882878540655,27.163354794354834
+"ITC Grand Central, Mumbai ","#8 of 1,061 Hotels in Mumbai","287 Dr Babasaheb Ambedkar Road Parel, Mumbai 400012 India",4.5,"English, Hindi","Family,City View",74.0,7.0,242,8928,15480,72.84035000000006,19.006330000000048
+"ITC Maratha, Mumbai ","#5 of 1,061 Hotels in Mumbai","Sahar Airport Road, Near International Airport Andheri, Mumbai 400099 India",4.5,"English, Hindi","Green,Family",138.0,6.0,380,9360,19224,72.86826000000008,19.102880000000027
+"ITC Kakatiya, Hyderabad ",#8 of 814 Hotels in Hyderabad,"6 -3 -1187 Begumpet, Hyderabad 500016 India",4.5,"English, Hindi","Business,Classic",32.0,4.0,188,7560,11736,78.45425067369979,17.44370977354907
+"ITC Kohenur, Hyderabad ",#1 of 814 Hotels in Hyderabad,"Plot No 5 1 Hyderabad Knowledge City Survey No 83, Hyderabad 500081 India",5.0,"English, Hindi",NA,50.0,4.0,274,8928,19584,78.38389000000006,17.431778800000075
+"ITC Gardenia, Bengaluru ","#25 of 1,715 Hotels in Bengaluru","No 1 Residency Road, Bengaluru 560025 India",4.5,"English, Hindi","City View,Luxury",85.0,6.0,292,10728,16920,77.60753598884095,12.97220383443509
+"ITC Sonar, Kolkata ",#5 of 744 Hotels in Kolkata,"1 Jbs Haldane Avenue, Kolkata 700046 India",4.5,"English, Spanish, Hindi",NA,31.0,1.0,237,7488,19008,88.37484837043039,22.538938915185177
+ITC Royal Bengal ,#8 of 744 Hotels in Kolkata,"1 JBS Haldane Avenue, Kolkata 700046 India",5.0,"English, Hindi, Japanese, Nepali",NA,34.0,1.0,456,7200,16632,88.37484837043039,22.538938915185177
+Sheraton New Delhi Hotel,"#7 of 1,978 Hotels in New Delhi","District Centre, Saket, New Delhi 110017 India",4.5,"English, Hindi",Business,83.0,6.0,220,7128,12888,77.21905000000004,28.528130000000033
